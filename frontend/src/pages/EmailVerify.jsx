@@ -93,3 +93,6 @@ const EmailVerify = () => {
 }
 
 export default EmailVerify
+
+
+//email varify
